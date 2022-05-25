@@ -6,7 +6,6 @@ API simples de cadastro de livros usando a linguagem python e o framework DJANGO
 -  /books : GET 
 - /books : POST => Inserir
 - /books/id_book =>  DELETE ou PUT
-    - Captura de avatar a partir do login ou registro com google
 ### Como executar
 Certifique de ter python 2.0 ou superior instalado
  execute no terminal  
